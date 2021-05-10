@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\CommonSamples">
+      <UniqueIdentifier>{bfee3fdc-7be0-48b1-97b9-2ff2b5bdddb3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\CommonSamples\Win32\AkDefaultIOHookBlocking.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonSamples\Win32\AkDefaultIOHookDeferred.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonSamples\Win32\stdafx.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonSamples\Common\AkDefaultLowLevelIODispatcher.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonSamples\Common\AkFileLocationBase.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonSamples\Common\AkFilePackage.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonSamples\Common\AkFilePackageLUT.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CommonSamples\Common\AkMultipleFileLocation.cpp">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorWeightAudioEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CommonSamples\Win32\AkDefaultIOHookBlocking.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Win32\AkDefaultIOHookDeferred.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Win32\AkFileHelpers.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Win32\AkFilePackageLowLevelIOBlocking.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Win32\AkFilePackageLowLevelIODeferred.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Win32\stdafx.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Common\AkDefaultLowLevelIODispatcher.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Common\AkFileHelpersBase.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Common\AkFileLocationBase.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Common\AkFilePackage.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Common\AkFilePackageLowLevelIO.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Common\AkFilePackageLUT.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonSamples\Common\AkMultipleFileLocation.h">
+      <Filter>Source Files\CommonSamples</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\CommonSamples\Common\AkFilePackageLowLevelIO.inl">
+      <Filter>Source Files\CommonSamples</Filter>
+    </None>
+  </ItemGroup>
+</Project>

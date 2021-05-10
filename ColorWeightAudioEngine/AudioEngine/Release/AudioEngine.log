@@ -1,0 +1,4 @@
+﻿  AudioEngine.cpp
+AudioEngine.obj : error LNK2001: unresolved external symbol "enum AKRESULT __cdecl AK::MemoryMgr::Init(struct AkMemSettings *)" (?Init@MemoryMgr@AK@@YA?AW4AKRESULT@@PAUAkMemSettings@@@Z)
+AudioEngine.obj : error LNK2001: unresolved external symbol "void __cdecl AK::MemoryMgr::GetDefaultSettings(struct AkMemSettings &)" (?GetDefaultSettings@MemoryMgr@AK@@YAXAAUAkMemSettings@@@Z)
+C:\Users\wolfe\Desktop\Audio\AudioEngine\AudioEngine\Release\AudioEngine.exe : fatal error LNK1120: 2 unresolved externals

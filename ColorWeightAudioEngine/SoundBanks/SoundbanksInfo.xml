@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\wolfe\Desktop\Audio\WiseAudioEngine\AudioEngine\SoundBanks\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1958929096">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3291379323" Language="SFX" Hash="516007432">
+			<ObjectPath>\SoundBanks\Default Work Unit\TestBank</ObjectPath>
+			<ShortName>TestBank</ShortName>
+			<Path>TestBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="836661363" Name="PlayCombo" ObjectPath="\Events\Default Work Unit\PlayCombo">
+					<IncludedMemoryFiles>
+						<File Id="131319772" Language="SFX">
+							<ShortName>PunchCombo5.wav</ShortName>
+							<Path>SFX\PunchCombo5_10C4C929.wem</Path>
+						</File>
+						<File Id="460882583" Language="SFX">
+							<ShortName>PunchCombo3.wav</ShortName>
+							<Path>SFX\PunchCombo3_10C4C929.wem</Path>
+						</File>
+						<File Id="554075696" Language="SFX">
+							<ShortName>PunchCombo1.wav</ShortName>
+							<Path>SFX\PunchCombo1_10C4C929.wem</Path>
+						</File>
+						<File Id="570867618" Language="SFX">
+							<ShortName>PunchCombo6.wav</ShortName>
+							<Path>SFX\PunchCombo6_10C4C929.wem</Path>
+						</File>
+						<File Id="659644079" Language="SFX">
+							<ShortName>PunchCombo2.wav</ShortName>
+							<Path>SFX\PunchCombo2_10C4C929.wem</Path>
+						</File>
+						<File Id="1004486629" Language="SFX">
+							<ShortName>PunchCombo4.wav</ShortName>
+							<Path>SFX\PunchCombo4_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

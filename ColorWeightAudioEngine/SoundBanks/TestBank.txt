@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	836661363	PlayCombo			\Default Work Unit\PlayCombo	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	131319772	PunchCombo5	C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\.cache\Windows\SFX\PunchCombo5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThisRand\PunchCombo5		271768
+	460882583	PunchCombo3	C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\.cache\Windows\SFX\PunchCombo3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThisRand\PunchCombo3		326104
+	554075696	PunchCombo1	C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\.cache\Windows\SFX\PunchCombo1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThisRand\PunchCombo1		298936
+	570867618	PunchCombo6	C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\.cache\Windows\SFX\PunchCombo6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThisRand\PunchCombo6		326104
+	659644079	PunchCombo2	C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\.cache\Windows\SFX\PunchCombo2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThisRand\PunchCombo2		434788
+	1004486629	PunchCombo4	C:\Users\wolfe\Desktop\Audio\WwiseAudioEngineProject\.cache\Windows\SFX\PunchCombo4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ThisRand\PunchCombo4		271768
+
