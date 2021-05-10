@@ -1,2 +1,2 @@
 # Color-Weight-Audio-Engine
-A reusable C++ audio engine for Unity/Unreal/Other.
+Windows-based reusable C++ interactive audio engine with VS project.
